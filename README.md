@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karthik-1902
+- 👋 Hi, I’m @KarthikSrishty
 - 👀 I’m interested in building complex apps leveraging my web dev skills
 - 🌱 I’m currently learning full stack development 
 - 😄 Pronouns: He/Him
